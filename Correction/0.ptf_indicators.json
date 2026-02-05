@@ -1,0 +1,12 @@
+{
+    "ptf": "Ptf3",
+    "bmk": "Ptf1",
+    "ptf vol_expost": 0.19268769028955607,
+    "bmk vol_expost": 0.15533652988670166,
+    "beta_expost": 1.1343119684995975,
+    "correlation_expost": 0.9144335309167975,
+    "tracking_error_expost": 0.08073019242157194,
+    "ptf vol_exante": 0.2145911214563838,
+    "bmk vol_exante": 0.1905642276324398,
+    "tracking_error_exante": 0.07322262260405545
+}
